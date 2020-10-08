@@ -1,4 +1,5 @@
 version 2
 now switch to master branch
 test merge
+try to use tools
 switch to master branch again
