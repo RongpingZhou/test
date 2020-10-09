@@ -1,4 +1,7 @@
 new file
 rebase 2
 rebase forward 1
+new rebase 1
+new rebase 2
+new rebase 3
 
