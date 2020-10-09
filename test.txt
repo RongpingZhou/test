@@ -3,3 +3,5 @@ now switch to master branch
 test merge
 try to use tools
 switch to master branch again
+from rebase 1 to master
+
